@@ -1,7 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
+// FastMovement strategy implementation
 public class FastMovement : IMovementStrategy
 {
     public void Move(Transform transform)

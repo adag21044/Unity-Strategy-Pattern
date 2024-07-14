@@ -1,6 +1,4 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
+// GameController class to handle user input and change character's movement strategy
 using UnityEngine;
 
 
